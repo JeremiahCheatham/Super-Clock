@@ -1,7 +1,7 @@
 ![Screenshot](screenshot.png)
 
 # Super Clock
-A Binary Clock with Hours, Minutes and Seconds. with 2 Styles and 3 Layouts. The time can be temporarily be shown in the Window Title.
+A Binary Clock with Hours, Minutes and Seconds. with 2 Styles and 3 Layouts. The time can temporarily be shown in the Window Title.
 
 # Controls
 Escape - Closes the clock.\
